@@ -1,0 +1,14 @@
+/Users/vsky/code/ck80/AnnaKarenina/AnnaKarenina/AnnaKarenina/bin/Debug/net8.0/AnnaKarenina
+/Users/vsky/code/ck80/AnnaKarenina/AnnaKarenina/AnnaKarenina/bin/Debug/net8.0/AnnaKarenina.deps.json
+/Users/vsky/code/ck80/AnnaKarenina/AnnaKarenina/AnnaKarenina/bin/Debug/net8.0/AnnaKarenina.runtimeconfig.json
+/Users/vsky/code/ck80/AnnaKarenina/AnnaKarenina/AnnaKarenina/bin/Debug/net8.0/AnnaKarenina.dll
+/Users/vsky/code/ck80/AnnaKarenina/AnnaKarenina/AnnaKarenina/bin/Debug/net8.0/AnnaKarenina.pdb
+/Users/vsky/code/ck80/AnnaKarenina/AnnaKarenina/AnnaKarenina/obj/Debug/net8.0/AnnaKarenina.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vsky/code/ck80/AnnaKarenina/AnnaKarenina/AnnaKarenina/obj/Debug/net8.0/AnnaKarenina.AssemblyInfoInputs.cache
+/Users/vsky/code/ck80/AnnaKarenina/AnnaKarenina/AnnaKarenina/obj/Debug/net8.0/AnnaKarenina.AssemblyInfo.cs
+/Users/vsky/code/ck80/AnnaKarenina/AnnaKarenina/AnnaKarenina/obj/Debug/net8.0/AnnaKarenina.csproj.CoreCompileInputs.cache
+/Users/vsky/code/ck80/AnnaKarenina/AnnaKarenina/AnnaKarenina/obj/Debug/net8.0/AnnaKarenina.dll
+/Users/vsky/code/ck80/AnnaKarenina/AnnaKarenina/AnnaKarenina/obj/Debug/net8.0/refint/AnnaKarenina.dll
+/Users/vsky/code/ck80/AnnaKarenina/AnnaKarenina/AnnaKarenina/obj/Debug/net8.0/AnnaKarenina.pdb
+/Users/vsky/code/ck80/AnnaKarenina/AnnaKarenina/AnnaKarenina/obj/Debug/net8.0/AnnaKarenina.genruntimeconfig.cache
+/Users/vsky/code/ck80/AnnaKarenina/AnnaKarenina/AnnaKarenina/obj/Debug/net8.0/ref/AnnaKarenina.dll
